@@ -10,3 +10,13 @@
 3. Bryce James [@brycejam](https://www.github.com/brycejam)
 4. Adam LeBrun [@adam4l](https://www.github.com/adam4l)
 5. Josh Horwitz [@Josh-Horwitz-1219](https://www.github.com/Josh-Horwitz-1219)
+
+## Dataset Description
+
+## Research Questions
+
+## Manipulations and Calculations
+
+## Analysis and Results
+
+## Tableau Packaged Workbook
