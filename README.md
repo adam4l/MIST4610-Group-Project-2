@@ -18,13 +18,13 @@
 Question #1: 
   What is the distribution of arrests across different boroughs of New York City for the age groups of <18 and 18-44, and what insights does this distribution provide into law enforcement practices, social demographics, and potential disparities?
 
-Importance
+Importance:
   The data obtained from this question can inform policymakers about the effectiveness and impact of law enforcement strategies. If there are significant differences in arrest rates among boroughs or age groups, it could prompt the need for policy changes or interventions to address underlying issues.
 
 Question #2: 
   What is the annual trend and distribution of robbery-related arrests throughout the year, and how do variations in arrest rates provide insights into patterns of criminal activity, law enforcement efforts, and potential factors influencing robbery incidents?
 
-Importance
+Importance:
   By examining the annual trend and distribution of robbery-related arrests, especially in correlation with retail sales data, researchers can discern if there are seasonal patterns in criminal activity. This can shed light on whether certain times of the year, such as the holiday season with higher retail sales, coincide with an increase in robbery incidents.
 
 
