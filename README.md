@@ -61,9 +61,15 @@ The dataset contains a mix of numeric and categorical data, providing a comprehe
 ## Analysis and Results
 
 ### Question #1: 
+
+<img width="1054" alt="Screenshot 2024-04-28 at 4 41 51 PM" src="https://github.com/adam4l/MIST4610-Group-Project-2/assets/163042495/96bb8c4e-03a1-4aaa-a216-cadda60f41e3">
+
   The more densely populated areas have more arrests as expected. The disparities in lower population areas arrests compared to more highly populated areas suggest that due to there being more easy anonymity in largely populated parts of New York, crime increases. This chart also allows policymakers to see the areas where more enhanced police presence is needed. For example, most of Staten Island doesn't have much crime except for the northeasternmost part of it so more police is likely needed there. In the line chart, it can be seen that the summer months, especially June, have higher arrests among the younger age group. This likely is because they no longer have school to occupy them and a solution to this is for there to be more, affordable activities for the youth to participate in when school is out. Finally, black and hispanic people are the most arrested demographics by far. This is likely due to the higher poverty rates associated with them and the fact that they feel like crime is the only way out of poverty.
 
 ### Question #2: 
+
+<img width="1062" alt="Screenshot 2024-04-28 at 4 42 17 PM" src="https://github.com/adam4l/MIST4610-Group-Project-2/assets/163042495/6bf787fb-30a2-4c58-98b4-dd93f1a81c81">
+
   As we see in the graph there is some fluctuation in the arrests throughout the year. These might be for seasonal variation. There is a noticeable increase from January to May. These months may present more opportunities for robbers as post-holiday periods often mean homes are stocked with valuable items. Robbery-related offenses tend to decrease during the summer months, possibly because people are often away on vacation, leaving their valuables in secure locations away from home. Other external factors that may influence high rates of robbery-related offenses are the economic state. The economic state of New York City at the beginning and end of 2023 might have been declining, potentially increasing the rate of robbery-related crimes. This would be understandable because periods of economic decline may result in higher unemployment rates and financial desperation which can motivate people to commit robbery-related crimes. We were able to forecast our findings for the next 5 months and we see an overall gradual increase in the trend. This makes sense because as the population and economy grow, there is typically an uptick in the occurrences of robberies.
 
 ## Tableau Packaged Workbook
