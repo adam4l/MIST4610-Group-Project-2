@@ -12,7 +12,7 @@
 5. Josh Horwitz [@Josh-Horwitz-1219](https://www.github.com/Josh-Horwitz-1219)
 
 ## Dataset Description
-The dataset, "NYPD Arrest Data (Year to Date)", contains information about arrests made by the New York City Police Department. It comprises 63,621 entries, each representing an individual arrest record, distributed across 19 different columns that provide various details about each arrest.
+We obtained our dataset through the following link: https://catalog.data.gov/dataset/nypd-arrest-data-year-to-date. The dataset, "NYPD Arrest Data (Year to Date)", contains information about arrests made by the New York City Police Department. It comprises 63,621 entries, each representing an individual arrest record, distributed across 19 different columns that provide various details about each arrest.
 
 Here is a breakdown of the columns and the types of data they contain:
 
