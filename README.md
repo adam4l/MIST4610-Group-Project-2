@@ -48,7 +48,7 @@ The dataset contains a mix of numeric and categorical data, providing a comprehe
   What is the annual trend and distribution of robbery-related arrests throughout the year, and how do variations in arrest rates provide insights into patterns of criminal activity, law enforcement efforts, and potential factors influencing robbery incidents?
 
 #### Importance:
-  By examining the annual trend and distribution of robbery-related arrests, especially in correlation with retail sales data, researchers can discern if there are seasonal patterns in criminal activity. This can shed light on whether certain times of the year, such as the holiday season with higher retail sales, coincide with an increase in robbery incidents.
+  By examining the annual trend and distribution of robbery-related arrests, especially in correlation with retail sales data, researchers can discern if there are seasonal patterns in criminal activity. This can shed light on whether certain times of the year, such as the holiday season with higher retail sales, coincide with an increase in robbery incidents. Also by examining the distribution of robbery-related arrests across different regions and time periods, it helps identify hotspots of criminal activity and emerging trends. By pinpointing areas with high concentrations of robbery incidents, law enforcement agencies can prioritize resources for targeted interventions, such as increased patrols, surveillance, or community outreach programs. Additionally, identifying trends in robbery tactics or target locations informs the development of proactive strategies to deter and apprehend offenders.
 
 
 ## Manipulations and Calculations
